@@ -2,7 +2,7 @@
 
 When first launching AnkerMake Studio, it will ask you to choose a printer:
 
-![printer-choice](img/printer-choice.png)
+![printer-choice](/ankermake-studio/img/printer-choice.png)
 
 These choices are controlled via the _Anker.ini_ file where AnkerMake Studio is installed. Typically it's "C:\Users\<your profile name>\AppData\Roaming\AnkerMake Studio Profile\vendor". Here's a sample for the AnkerMake M5:
 
