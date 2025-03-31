@@ -6,6 +6,6 @@ I'm using the table below to track spool weights by vendor as I use them.
 | Creality | Wood PLA | 1kg | 361g | 2024 | ![creality-wood-pla-1kg](/img/creality-wood-1kg.png) |
 | Kingroon | PLA | 1kg | 300g | 2024 | ![kingroon-pla-1kg](/img/kingroon-1kg.png) |
 | IIID Max | PLA+ | 1kg | 460g | 2023 |  |
-| OVV3D | Wood PLA | 200g | 144g | 2024 | ![ovv3d-wood-pla-200g] (/img/ovv3d-wood-200g.png) |
+| OVV3D | Wood PLA | 200g | 144g | 2024 | ![ovv3d-wood-pla-200g](/img/ovv3d-wood-200g.png) |
 | Sunlu | Silk PLA+ | 250g | 98g | 2024 |  |
 | Sunlu | Silk PLA+ | 1kg | 258g | 2024 |  |
