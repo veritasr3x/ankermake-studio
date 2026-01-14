@@ -9,3 +9,4 @@ I'm using the table below to track spool weights by vendor as I use them.
 | OVV3D | Wood PLA | 200g | 144g | 2024 | ![ovv3d-wood-pla-200g](/img/ovv3d-wood-200g.png) |
 | Sunlu | Silk PLA+ | 250g | 98g | 2024 | ![sunlu-silk-pla-200g](/img/sunlu-silk-200g.png) |
 | Sunlu | Silk PLA+ | 1kg | 258g | 2024 | ![sunlu-silk-pla-1kg](/img/sunlu-silk-1kg.png) |
+| iSANmate | Glow in the Dark PLA | 250g | 185g | 2025 | |
